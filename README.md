@@ -6,7 +6,7 @@
 
 This project is a simple number generator developed using HTML, CSS, and JavaScript. The program takes a user input, and if the input is even, it generates the next 3 even numbers. If the input is odd, it generates the next 3 odd numbers.
 
-### Demo Url:shivanext3nums.ccbp.tech
+### Demo Url:(https://shivanext3nums.ccbp.tech/)
 
 ## Usage
 
